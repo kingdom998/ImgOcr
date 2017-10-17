@@ -15,7 +15,7 @@ py2exe_options = {
 }
 
 setup(
-    console=[{"script": r"myocr.py"}],
+    console=[{"script": r"imgocr.py"}],
     data_files=data_files,
     requires=['PyQt4', 'xlrd', 'pytesseract'],
     options={"py2exe": py2exe_options}

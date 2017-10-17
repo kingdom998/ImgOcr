@@ -1,9 +1,10 @@
-````# 目录及文件说明
-## Date:17.01.10 
-## Author:[jindang.wu]()
+## 图像识别
 
-./
-* res       资源文件
-* scrap.py  主要文件
+&emsp;目录说明：
+* res       资源文件夹
+* copy.bat
+* imgocr.py
+* install.bat 
+* out.txt
+* readme.md
 * setup.py  安装文件
-* setup.bat 安装批处理

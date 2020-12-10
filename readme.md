@@ -2,6 +2,7 @@
 
 &emsp;目录说明：
 * res       资源文件夹
+* tesseract 训练工具
 * copy.bat
 * imgocr.py
 * install.bat 
